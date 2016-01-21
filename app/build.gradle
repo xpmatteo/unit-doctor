@@ -2,12 +2,12 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 21
-    buildToolsVersion '24.0.0'
+    buildToolsVersion '21.0.0'
 
     defaultConfig {
         applicationId "name.vaccari.matteo.unitdoctor"
         minSdkVersion 16
-        targetSdkVersion 21
+        targetSdkVersion 20
         versionCode 1
         versionName "1.0"
     }
